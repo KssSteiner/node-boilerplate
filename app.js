@@ -1,3 +1,4 @@
+"use strict";
 const express = require('express'); //https://expressjs.com/ 
 const { engine } = require('express-handlebars'); //engine MUSS engine heissen... https://www.npmjs.com/package/express-handlebars?activeTab=readme 
 var bodyParser = require('body-parser'); //Formulardaten parsen https://www.npmjs.com/package/body-parser 
